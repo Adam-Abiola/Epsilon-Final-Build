@@ -1,0 +1,8 @@
+@import '_variables.scss';
+
+@import '_general';
+@import '_header';
+@import '_nav';
+@import '_hero';
+@import '_sections';
+@import '_footer';
